@@ -1,7 +1,9 @@
 ﻿## Program Pasjans w Kąsoli
 
 ### Odpalenie Programu
-* należy otwożyć plik projektu w kturym powinien się znajdować "13-15_C#_jakub_lazarek.sln" i następnie otwożyć ten plik
+* najpierw tżeba pobrać repozytorum jako zip czyli tżeba nalehać myszką zielony pżycisk "code" i wybrać opcje pobierania zip
+* następnie tżeba odpakować zip
+* potem tżeba otwożyć folder projektu ktury powinien się znajdować "13-15_C#_jakub_lazarek.sln" i następnie otwożyć ten plik (mincrosoft visual studio jest wymagane)
 * następnie należy u gury ekranu rozwinąć panel gdzie pisze "Debug" i wybrać opcje "Relace"
 * następnie tżeba nacisnąć zieloną stżałke na prawo od panelu i projekt powinien się odpalić
 ### sterowanie
