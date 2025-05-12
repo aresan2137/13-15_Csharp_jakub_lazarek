@@ -8,7 +8,7 @@
 * następnie tżeba nacisnąć zieloną stżałke na prawo od panelu i projekt powinien się odpalić
 ### sterowanie
 #### Pżenoszenie kart
-* aby pżenieść z np. kolumny c do kolumny d jedną karte należy napisać komęde "cd1"
+aby pżenieść z np. kolumny c do kolumny d jedną karte należy napisać komęde "cd1"
 pierwsza litera oznacza litere kolumny z kturej karta/y zostanią zabrane
 druga litera oznacza litere kolumny na kturą kata/y zostaną położone
 tżecia litera oznacza ile kart zostanie zabtanych
