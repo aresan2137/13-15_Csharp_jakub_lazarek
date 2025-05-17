@@ -1,5 +1,5 @@
 ﻿## Program Pasjans w Kąsoli
-w nazwie repozytorium powinno być C# ale github niemoże tego używać więc jest tak jak jest
+w nazwie repozytorium powinno być C# ale github niemoże tego używać więc jest Csharp
 
 ### Odpalenie Programu
 * najpierw tżeba pobrać repozytorum jako zip czyli tżeba nalehać myszką zielony pżycisk "code" i wybrać opcje pobierania zip
