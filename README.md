@@ -6,7 +6,7 @@ w nazwie repozytorium powinno być C# ale github niemoże tego używać więc je
 * następnie tżeba odpakować zip
 * potem tżeba otwożyć folder projektu ktury powinien się znajdować "13-15_C#_jakub_lazarek.sln" i następnie otwożyć ten plik (mincrosoft visual studio jest wymagane)
 * następnie należy u gury ekranu rozwinąć panel gdzie pisze "Debug" i wybrać opcje "Relace"
-* następnie tżeba nacisnąć zieloną stżałke na prawo od panelu i projekt powinien się odpalić
+* następnie tżeba nacisnąć szarą stżałke z zielonym obramowaniem na prawo od panelu i projekt powinien się odpalić (zamiast tego można nacisnąć control + f5)
 ### sterowanie
 kolumna A to talia do dokładania
 kolumny od B do H to kolumny środkowe
@@ -29,5 +29,15 @@ numery 1 - 4 to odsłonięte karty a 5 - 9 to zakryte karty
 aby odsłonić karte wystarczy odjąć 4
 np. 123 to K
 #### funkcje
+Większość kodu ma komętaże
+* plik "Program"
+ma w sobie wejście programu
+* plik "CardGenerator"
+generuje wszystkie karty i je miesza
+* plik "CardRenderer"
+wypisuje wszystkie karty do konsoli
+* plik "UnderstundNotation" i "CardTransferFunctions"
+zajmują sie zrozumieniem i wykonaniem komend użytkownika
+
 
 TODO: zrobić wytumaczenie kodu
