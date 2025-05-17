@@ -11,8 +11,8 @@
 - kolumny od B do H to kolumny środkowe
 - kolumna I to talie końcowe
 #### Przenoszenie kart
-- jeżeli chcemy przenieść na przykład z kolumny b do kolumny g to trzeba napisać bg działa z innymi cyframi.
-- Jeśli chcemy przenieść kilka kart to po np. bg trzeba napisać ilość kart np. bg2, aby przenieść 2 karty z b do g.
+jeżeli chcemy przenieść na przykład z kolumny b do kolumny g to trzeba napisać bg działa z innymi cyframi.
+Jeśli chcemy przenieść kilka kart to po np. bg trzeba napisać ilość kart np. bg2, aby przenieść 2 karty z b do g.
 #### odkrywanie kart z tali do dobierania
 aby odsłonić następną karte z tali dobierania tżeba napisać "f"
 #### odkładanie kart ta stos końcowy
