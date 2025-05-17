@@ -30,10 +30,10 @@ np. 123 to K
 #### funkcje
 Większość kodu ma komentarze.
 * plik "Program"
-- ma w sobie wejście programu.
+ma w sobie wejście programu.
 * plik "CardGenerator"
-- generuje wszystkie karty i je miesza.
+generuje wszystkie karty i je miesza.
 * plik "CardRenderer"
-- wypisuje wszystkie karty do konsoli.
+wypisuje wszystkie karty do konsoli.
 * plik "UnderstundNotation" i "CardTransferFunctions"
-- zajmują się zrozumieniem i wykonaniem komend użytkownika.
+zajmują się zrozumieniem i wykonaniem komend użytkownika.
