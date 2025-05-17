@@ -11,21 +11,21 @@
 - kolumny od B do H to kolumny środkowe
 - kolumna I to talie końcowe
 #### Przenoszenie kart
-jeżeli chcemy przenieść na przykład z kolumny b do kolumny g to trzeba napisać bg działa z innymi cyframi.
+jeżeli chcemy przenieść na przykład z kolumny b do kolumny g to trzeba napisać bg działa z innymi cyframi.  
 Jeśli chcemy przenieść kilka kart to po np. bg trzeba napisać ilość kart np. bg2, aby przenieść 2 karty z b do g.
-#### odkrywanie kart z tali do dobierania
+#### odkrywanie kart z tali do dobierania  
 aby odsłonić następną karte z tali dobierania tżeba napisać "f"
-#### odkładanie kart ta stos końcowy
+#### odkładanie kart ta stos końcowy  
 aby przenieść na stosy końcowe tżeba dać do kolumny I i program wybierze miejsce dla tej karty.
 #### Kody
 * "ShowAll" odkrywa wszystkie ukryte karty.
 ### Wytłumaczenie kodu
 #### Przechowywanie kart
-ten program przechowuje karty w byte
-karty są przechowywane, że 2 ostatnie cyfry oznaczają kartę a pierwsza cyfra oznacza numer.
-Numer karty jest przeorywany od 1 do 9.
-numery 1 - 4 to odsłonięte karty a 5 - 9 to zakryte karty
-aby odsłonić karte wystarczy odjąć 4.
+ten program przechowuje karty w byte  
+karty są przechowywane, że 2 ostatnie cyfry oznaczają kartę a pierwsza cyfra oznacza numer.  
+Numer karty jest przeorywany od 1 do 9.  
+numery 1 - 4 to odsłonięte karty a 5 - 9 to zakryte karty  
+aby odsłonić karte wystarczy odjąć 4.  
 np. 123 to K
 #### funkcje
 Większość kodu ma komentarze.
