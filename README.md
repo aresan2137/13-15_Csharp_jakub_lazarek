@@ -17,8 +17,10 @@ Jeśli chcemy przenieść kilka kart to po np. bg trzeba napisać ilość kart n
 aby odsłonić następną karte z tali dobierania tżeba napisać "f"
 #### odkładanie kart ta stos końcowy  
 aby przenieść na stosy końcowe tżeba dać do kolumny I i program wybierze miejsce dla tej karty.
-#### Kody
+#### reszta
 * "ShowAll" odkrywa wszystkie ukryte karty.
+* "exit" wyłącza gre
+* "restart" restartuje gre
 ### Wytłumaczenie kodu
 #### Przechowywanie kart
 ten program przechowuje karty w byte  
